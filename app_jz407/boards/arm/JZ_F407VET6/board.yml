@@ -1,0 +1,5 @@
+board:
+  name: JZ_F407VET6
+  vendor: custom
+  socs:
+    - name: stm32f407xx

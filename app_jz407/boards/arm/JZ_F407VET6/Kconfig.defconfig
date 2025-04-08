@@ -1,0 +1,6 @@
+if BOARD_JZ_F407VET6
+
+config BOARD
+	default "BOARD_JZ_F407VET6"
+
+endif

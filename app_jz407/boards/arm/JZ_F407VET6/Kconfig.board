@@ -1,0 +1,4 @@
+config BOARD_JZ_F407VET6
+	bool "JZ F407VET6 custom board"
+	depends on SOC_STM32F407XE
+	
